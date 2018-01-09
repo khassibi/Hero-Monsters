@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=t\ l\ h
+comment0.target=Weapon(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=int\ getHigh()
+comment5.params=
+comment5.target=int\ getLow()
+comment6.params=x
+comment6.target=void\ setX(int)
+comment7.params=y
+comment7.target=void\ setY(int)
+numComments=8

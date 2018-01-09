@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=map\ printedMap
+comment1.target=void\ printMap(java.lang.Object[][],\ java.lang.String[][])
+comment2.params=map\ printedMap\ h
+comment2.target=java.util.ArrayList\ touching(java.lang.Object[][],\ java.lang.String[][],\ Hero)
+comment3.params=touchedPos\ map\ printedMap\ h
+comment3.target=void\ differentiate(java.util.ArrayList,\ java.lang.Object[][],\ java.lang.String[][],\ Hero)
+comment4.params=mo\ po\ fa\ h
+comment4.target=void\ interact(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ Hero)
+numComments=5

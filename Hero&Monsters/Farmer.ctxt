@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Farmer()
+comment1.params=x\ y
+comment1.target=Farmer(int,\ int)
+comment10.params=h
+comment10.target=void\ interact(Hero)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getType()
+comment5.params=
+comment5.target=boolean\ getInteracted()
+comment6.params=x
+comment6.target=void\ setX(int)
+comment7.params=y
+comment7.target=void\ setY(int)
+comment8.params=t
+comment8.target=void\ setType(int)
+comment9.params=i
+comment9.target=void\ setInteracted(boolean)
+numComments=11
